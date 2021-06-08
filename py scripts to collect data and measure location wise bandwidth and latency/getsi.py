@@ -1,3 +1,11 @@
+#############################################
+##'''finding the speed index for websites'''#
+###@SerajMostafa, Montana State University###
+########serajmostafa@montana.edu#############
+###############################<©sermost>####
+#############################################
+
+
 import subprocess, json, re
 from random import random
 from statistics import median

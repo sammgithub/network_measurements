@@ -1,3 +1,10 @@
+#############################################
+##'''networks speed test as server'''########
+###@SerajMostafa, Montana State University###
+########serajmostafa@montana.edu#############
+###############################<©sermost>####
+#############################################
+
 import subprocess
 from time import sleep
 import datetime

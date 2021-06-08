@@ -1,3 +1,10 @@
+#############################################
+##'''networks speed test as client'''########
+###@SerajMostafa, Montana State University###
+########serajmostafa@montana.edu#############
+###############################<©sermost>####
+#############################################
+
 import subprocess
 from time import sleep
 import datetime

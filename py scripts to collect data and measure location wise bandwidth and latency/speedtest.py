@@ -1,6 +1,12 @@
+#############################################
+#######'''current networks speed test'''#####
+###@SerajMostafa, Montana State University###
+########serajmostafa@montana.edu#############
+###############################<©sermost>####
+#############################################
+
+
 import speedtest
-
-
 def test():
 	s = speedtest.Speedtest()
 	s.get_servers()
